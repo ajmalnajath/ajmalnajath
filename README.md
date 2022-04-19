@@ -3,7 +3,7 @@
 
 ### Currently Studying Computer Science and Engineering
 
-'''json
+```javascript
 {
   "type": "Assertion",
   "id": "https://api.badgr.io/public/assertions/ysVNczbgQTOoD9rh474zbg",
@@ -24,4 +24,4 @@
     "type": "HostedBadge"
   }
 }
-'''
+```
