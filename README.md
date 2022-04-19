@@ -3,7 +3,7 @@
 
 ### Currently Studying Computer Science and Engineering
 
-```javascript
+```json
 {
   "type": "Assertion",
   "id": "https://api.badgr.io/public/assertions/ysVNczbgQTOoD9rh474zbg",
